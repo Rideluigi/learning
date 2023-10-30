@@ -1,0 +1,14 @@
+C:\Users\efren\OneDrive\Documents\Programming\learning\HelloNewWorld\bin\Debug\net7.0\HelloNewWorld.exe
+C:\Users\efren\OneDrive\Documents\Programming\learning\HelloNewWorld\bin\Debug\net7.0\HelloNewWorld.deps.json
+C:\Users\efren\OneDrive\Documents\Programming\learning\HelloNewWorld\bin\Debug\net7.0\HelloNewWorld.runtimeconfig.json
+C:\Users\efren\OneDrive\Documents\Programming\learning\HelloNewWorld\bin\Debug\net7.0\HelloNewWorld.dll
+C:\Users\efren\OneDrive\Documents\Programming\learning\HelloNewWorld\bin\Debug\net7.0\HelloNewWorld.pdb
+C:\Users\efren\OneDrive\Documents\Programming\learning\HelloNewWorld\obj\Debug\net7.0\HelloNewWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efren\OneDrive\Documents\Programming\learning\HelloNewWorld\obj\Debug\net7.0\HelloNewWorld.AssemblyInfoInputs.cache
+C:\Users\efren\OneDrive\Documents\Programming\learning\HelloNewWorld\obj\Debug\net7.0\HelloNewWorld.AssemblyInfo.cs
+C:\Users\efren\OneDrive\Documents\Programming\learning\HelloNewWorld\obj\Debug\net7.0\HelloNewWorld.csproj.CoreCompileInputs.cache
+C:\Users\efren\OneDrive\Documents\Programming\learning\HelloNewWorld\obj\Debug\net7.0\HelloNewWorld.dll
+C:\Users\efren\OneDrive\Documents\Programming\learning\HelloNewWorld\obj\Debug\net7.0\refint\HelloNewWorld.dll
+C:\Users\efren\OneDrive\Documents\Programming\learning\HelloNewWorld\obj\Debug\net7.0\HelloNewWorld.pdb
+C:\Users\efren\OneDrive\Documents\Programming\learning\HelloNewWorld\obj\Debug\net7.0\HelloNewWorld.genruntimeconfig.cache
+C:\Users\efren\OneDrive\Documents\Programming\learning\HelloNewWorld\obj\Debug\net7.0\ref\HelloNewWorld.dll
