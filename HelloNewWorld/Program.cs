@@ -5,9 +5,8 @@ class HelloWorld
     {
         Console.WriteLine("Hello, World! first time ever using C#");
         int i = 10;
-        double o = 3.6;
+        double o = 2.6;
         Console.WriteLine(i-o);
 
     }
-    
 }
