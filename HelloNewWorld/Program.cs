@@ -4,9 +4,12 @@ class HelloWorld
     static void Main(string[] args)
     {
         Console.WriteLine("Hello, World! first time ever using C#");
-        int i = 10;
-        double o = 92.6;
-        Console.WriteLine(i-o);
+        
+        for (int i = 0; i < 3; i++)
+        {
+            
+            Console.WriteLine("Valgo: "+i);
+        }
 
     }
 }
